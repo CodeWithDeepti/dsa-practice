@@ -16,7 +16,7 @@ public class LC0088_MergeSortedArray {
             }
             k-- ;
         }
-        
+
         while( j>=0 ){
             nums1[k]=nums2[j];
             k--  ;
