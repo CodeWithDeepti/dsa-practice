@@ -17,6 +17,7 @@ public class LC0027_RemoveElement {
         }
         return j+1 ;
     }
+    
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
